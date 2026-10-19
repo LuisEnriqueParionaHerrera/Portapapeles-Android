@@ -1,3 +1,17 @@
+
 {
-  "imagenes": []
+  "categoria": "centros-tv",
+  "codigo": "326",
+  "version": 1,
+  "imagenes": [
+    "2.png",
+    "3.png",
+    "4.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "Centro de tv 180 cm largo.jpg",
+    "Centro Tv 180 cm Largo Alto.jpg"
+  ]
 }
