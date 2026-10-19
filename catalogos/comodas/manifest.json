@@ -1,3 +1,14 @@
 {
-  "imagenes": []
+  "categoria": "comodas",
+  "codigo": "324",
+  "version": 1,
+  "imagenes": [
+    "Comoda 120 cm Bastante grande.jpg",
+    "Comoda 140 cm elegante.jpg",
+    "Comoda de 1 metro de largo.jpg",
+    "Grupo de 17 objetos (4).jpg",
+    "Grupo de 17 objetos (7).jpg",
+    "Grupo de 17 objetos (9).jpg",
+    "Grupo de 18 objetos.jpg"
+  ]
 }
