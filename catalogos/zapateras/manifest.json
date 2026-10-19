@@ -1,3 +1,12 @@
+
 {
-  "imagenes": []
+  "categoria": "zapateras",
+  "codigo": "325",
+  "version": 1,
+  "imagenes": [
+    "Zapatera 120 cm blanco con 2 puertas y 1 cajon.jpg",
+    "Zapatera 135 cm Marron.jpg",
+    "Zapatera de 135 cm.jpg",
+    "Zapatera de 70 cm marron.jpg"
+  ]
 }
