@@ -1,12 +1,24 @@
-
 {
+  "categoria": "roperos",
+  "codigo": "479",
+  "version": 1,
   "imagenes": [
     "Armario 479.jpg",
+    "Grupo de 17 objetos.jpg",
+    "Grupo de 17 objetos (1).jpg",
+    "Grupo de 17 objetos (2).jpg",
+    "Grupo de 17 objetos (3).jpg",
+    "Grupo de 17 objetos (4).jpg",
+    "Grupo de 17 objetos (5).jpg",
+    "Grupo de 17 objetos (6).jpg",
+    "Grupo de 17 objetos (7).jpg",
+    "Grupo de 17 objetos (8).jpg",
+    "Grupo de 17 objetos (9).jpg",
+    "Grupo de 17 objetos (10).jpg",
     "Ropero 180 599.jpg",
     "Ropero 180 cm 829.jpg",
-    "Ropero 770 .jpg",
+    "Ropero 770.jpg",
     "ropero 180 479.jpg",
     "ropero 180 809.jpg"
   ]
 }
-
